@@ -1,0 +1,17 @@
+{
+  "short_name": "LMS 2026",
+  "name": "Leave Management Software 2026",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#1F4E78",
+  "theme_color": "#1F4E78",
+  "display": "standalone",
+  "orientation": "portrait"
+}
