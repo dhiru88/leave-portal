@@ -1,7 +1,8 @@
 const CACHE_NAME = 'lms-cache-v1';
 const assets = [
   'index.html',
-  'manifest.json'
+  'manifest.json',
+  'icon.svg'
 ];
 
 self.addEventListener('install', e => {
