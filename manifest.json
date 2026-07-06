@@ -3,8 +3,8 @@
   "name": "Leave Management Software 2026",
   "icons": [
     {
-      "src": "icon.svg",
-      "type": "image/svg+xml",
+      "src": "icon.png",
+      "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
     }
